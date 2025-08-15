@@ -1,0 +1,9 @@
+{
+  "name": "SEERS' HOURLY FORECAST (Free)",
+  "short_name": "SEERS Free",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Today-only free version of SEERS' HOURLY FORECAST.",
+  "icons": []
+}
